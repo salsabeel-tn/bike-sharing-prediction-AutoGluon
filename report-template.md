@@ -23,11 +23,11 @@ TODO: Add your explanation
 TODO: Add your explanation
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
-|model|hpo1|hpo2|hpo3|score|
+|model|time|num_boost_rounds|num_echos|score|
 |--|--|--|--|--|
-|initial|?|?|?|?|
-|add_features|?|?|?|?|
-|hpo|?|?|?|?|
+|initial|600|'default'|'default'|1.39380|
+|add_features|600|'default'|'default'|0.53206|
+|hpo|900|100|12|0.49878|
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
